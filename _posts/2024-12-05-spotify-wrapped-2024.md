@@ -6,4 +6,4 @@ place: Jeddah
 
 46,696 minutes, wow. Not sure what to make of it.
 
-https://x.com/nilnge/status/1865107923526930824?s=46
+[https://x.com/nilnge/status/1865107923526930824?s=46](https://x.com/nilnge/status/1865107923526930824?s=46)
