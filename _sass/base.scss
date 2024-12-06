@@ -131,3 +131,10 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+
+/**
+ * Custom CSS
+ */
+ .site-title { float: inline-start; font-weight: bold; text-decoration: none;}
+ .post-date { color: gray; }

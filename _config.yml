@@ -6,10 +6,12 @@ header_pages:
  - index.md
  - about.md
 
-footer: don't follow me on <a href="https://x.com/nilnge">twitter</a>
+footer: 🌊
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
+
+permalink: pretty
 
 plugins:
   - jekyll-seo-tag

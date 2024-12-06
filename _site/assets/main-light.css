@@ -449,5 +449,17 @@ pre {
 .highlight .il {
   color: var(--code-color-14);
 } /* Literal.Number.Integer.Long */
+/**
+ * Custom CSS
+ */
+.site-title {
+  float: inline-start;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.post-date {
+  color: gray;
+}
 
 /*# sourceMappingURL=main-light.css.map */
