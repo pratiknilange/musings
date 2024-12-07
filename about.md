@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 
-Hey, I am Pratik. I am an engineer and a self-taught graphic designer living in Bangalore.
+Hi, I am Pratik. I am an engineer and a self-taught graphic designer living in Bangalore.
 
 I pay my bills working as a software developer at [TCS BaNCS](https://tcs.com/bancs).
 

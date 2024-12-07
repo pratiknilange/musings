@@ -1,12 +1,17 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+// @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
 
 /**
  * Style variables
  */
-$base-font-family:     'Source Code Pro', monospace !default;
-$base-font-size:       12.5px !default;
-$mobile-font-size:     12px !default;
+// $base-font-family:     'Source Code Pro', monospace !default;
+$base-font-family:     'Karla', sans-serif !default;
+// $base-font-size:       12.5px !default;
+// $mobile-font-size:     12px !default;
+$base-font-size:       13.5px !default;
+$mobile-font-size:     13px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
 $container-max-width:  600px !default;
@@ -136,5 +141,8 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 /**
  * Custom CSS
  */
+ html, body { background-color: rgb(255, 255, 246); }
+ body{ letter-spacing: 0px; }
  .site-title { float: inline-start; font-weight: bold; text-decoration: none;}
  .post-date { color: gray; }
+ img { max-width: 100%; }
